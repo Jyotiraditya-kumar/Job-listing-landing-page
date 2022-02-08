@@ -1,0 +1,77 @@
+.filter-section {
+  width: 95%;
+  position: relative;
+  top: -40px;
+  background-color: white;
+  border-radius: 5px;
+  margin: 0px auto 0px auto;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  /* background-color: red; */
+}
+.filters {
+  /* width: 100%; */
+  display: flex;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  flex-direction: row;
+  /* justify-content: space-between; */
+}
+.clear-button {
+  /* width: 50px; */
+  align-self: center;
+  color: var(--DarkGrayishCyan);
+  margin: 0px 10px;
+  font-size: 16px;
+  font-weight: 700;
+  /* padding: 0px 10px; */
+}
+.clear-button:hover {
+  color: var(--darkCyan);
+  /* background-color: var(--darkCyan); */
+  border-bottom: 1px solid;
+  cursor: pointer;
+  /* border-radius: 5px; */
+}
+.filter {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin-right: 10px;
+  margin: 10px;
+  width: fit-content;
+}
+.filter-text {
+  background-color: var(--LightGrayishCyan2);
+  color: var(--darkCyan);
+  padding: 5px;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+  font-weight: 700;
+  font-size: 16px;
+}
+.cross {
+  background-color: var(--darkCyan);
+  padding: 7px;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+.cross:hover {
+  background-color: var(--VeryDarkGrayishCyan);
+  cursor: pointer;
+}
+
+@media screen and (min-width: 500px) and (max-width: 1200px) {
+  .filter-section {
+    width: 80%;
+    /* background-color: red; */
+  }
+}
+@media screen and (min-width: 1200px) {
+  .filter-section {
+    width: 75%;
+    /* background-color: red; */
+  }
+}
