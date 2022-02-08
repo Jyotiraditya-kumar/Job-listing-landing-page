@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/job-listing-landing-page/static/css/main.e88bfb01.css",
+    "main.js": "/job-listing-landing-page/static/js/main.55989f14.js",
+    "static/media/loop-studios.svg": "/job-listing-landing-page/static/media/loop-studios.7778c957c5751d1502cc.svg",
+    "static/media/photosnap.svg": "/job-listing-landing-page/static/media/photosnap.5a867c13a374d62b400f.svg",
+    "static/media/manage.svg": "/job-listing-landing-page/static/media/manage.5a528a9669728fb94c8c.svg",
+    "static/media/insure.svg": "/job-listing-landing-page/static/media/insure.4d535e7e02c25d02b163.svg",
+    "static/media/account.svg": "/job-listing-landing-page/static/media/account.903d6cd02abadf4b4d60.svg",
+    "static/media/eyecam-co.svg": "/job-listing-landing-page/static/media/eyecam-co.0abb14e8a292eed471d5.svg",
+    "static/media/shortly.svg": "/job-listing-landing-page/static/media/shortly.3c01b577742e2648f6f9.svg",
+    "static/media/myhome.svg": "/job-listing-landing-page/static/media/myhome.aaaaa430346f24f652d5.svg",
+    "static/media/the-air-filter-company.svg": "/job-listing-landing-page/static/media/the-air-filter-company.9b55f6443c39f7b79348.svg",
+    "static/media/faceit.svg": "/job-listing-landing-page/static/media/faceit.54a148ce9e8793ff767e.svg",
+    "index.html": "/job-listing-landing-page/index.html",
+    "static/media/bg-header-desktop.svg": "/job-listing-landing-page/static/media/bg-header-desktop.8694f4668c94cdc9d16e.svg",
+    "static/media/bg-header-mobile.svg": "/job-listing-landing-page/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
+    "static/media/icon-remove.svg": "/job-listing-landing-page/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
+    "main.e88bfb01.css.map": "/job-listing-landing-page/static/css/main.e88bfb01.css.map",
+    "main.55989f14.js.map": "/job-listing-landing-page/static/js/main.55989f14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e88bfb01.css",
+    "static/js/main.55989f14.js"
+  ]
+}
